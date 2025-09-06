@@ -11,9 +11,3 @@
 
 ### 📊 My GitHub Stats:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=BAY1818&show_icons=true&theme=dark)
-
-### 🔥 Streaks:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BAY1818&theme=dark)
-
-### 🏆 Top Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BAY1818&layout=compact&theme=dark)
