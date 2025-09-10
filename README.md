@@ -11,3 +11,5 @@
 
 ### 📊 My GitHub Stats:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=BAY1818&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BAY1818&show_icons=true&theme=radical&refresh=1)
+
