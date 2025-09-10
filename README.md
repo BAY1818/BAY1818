@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Web Development.
 - 💻 I’m working on projects with HTML, CSS, JS, Python, and React.
-- 🤝 I’m looking to collaborate on open source projects.
+- 🤝 I’m looking to internship in web development.
 - 📫 How to reach me: baygeldiaza@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Every time run a code git commit -m "message" !
