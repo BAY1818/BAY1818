@@ -1,5 +1,6 @@
 # Hi there 👋
 
+- 🏢 I'm Software engineering student at ZJUT
 - 🌱 I’m currently learning Web Development.
 - 💻 I’m working on projects with HTML, CSS, JS, Python, and React.
 - 🤝 I’m looking to internship in web development.
