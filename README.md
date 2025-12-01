@@ -10,12 +10,11 @@
 
 ---
 
-### 📊 My GitHub Stats:
-![GitHub Stats](https://github-readme-stats-one-xi.vercel.app/api?username=BAY1818&show_icons=true&theme=dark)
+## 📊 My GitHub Stats:
 
-![Top Languages](https://github-readme-stats-one-xi.vercel.app/api/top-langs/?username=BAY1818&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BAY1818&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BAY1818&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=BAY1818&theme=dark&date_format=M%20j%5B,%20Y%5D)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BAY1818&theme=radical)](https://git.io/streak-stats)
 
