@@ -11,5 +11,10 @@
 ---
 
 ### 📊 My GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BAY1818&show_icons=true&theme=dark&refresh=1)
+![GitHub stats](https://github-readme-stats-godkingjay.vercel.app/api?username=BAY1818&show_icons=true&theme=dark&cache_seconds=7200)
+
+![Top Languages](https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=BAY1818&layout=compact&theme=dark&cache_seconds=7200)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=BAY1818&theme=dark&date_format=M%20j%5B,%20Y%5D)
+
 
