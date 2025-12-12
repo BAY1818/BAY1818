@@ -12,9 +12,9 @@
 
 ## 📊 My GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BAY1818&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BaygeldiAza&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BAY1818&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BaygeldiAza&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BAY1818&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BaygeldiAza&theme=tokyonight&hide_border=true)
 
